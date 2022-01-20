@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hedelvalle.github.io/csb-g7cbt/static/css/main.d880a3f0.chunk.css",
+    "main.js": "https://hedelvalle.github.io/csb-g7cbt/static/js/main.f1967eb7.chunk.js",
+    "main.js.map": "https://hedelvalle.github.io/csb-g7cbt/static/js/main.f1967eb7.chunk.js.map",
+    "runtime-main.js": "https://hedelvalle.github.io/csb-g7cbt/static/js/runtime-main.9e09f262.js",
+    "runtime-main.js.map": "https://hedelvalle.github.io/csb-g7cbt/static/js/runtime-main.9e09f262.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://hedelvalle.github.io/csb-g7cbt/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://hedelvalle.github.io/csb-g7cbt/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://hedelvalle.github.io/csb-g7cbt/index.html",
+    "static/css/main.d880a3f0.chunk.css.map": "https://hedelvalle.github.io/csb-g7cbt/static/css/main.d880a3f0.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://hedelvalle.github.io/csb-g7cbt/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e09f262.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.d880a3f0.chunk.css",
+    "static/js/main.f1967eb7.chunk.js"
+  ]
+}
